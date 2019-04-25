@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+.topline {
+    display: flex;
+    justify-content: space-around ; 
+    padding-top: 30px;
+}
+
+#mainpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
